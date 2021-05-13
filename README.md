@@ -1,0 +1,2 @@
+# CPractise
+C# çalışmaları, pratikler
